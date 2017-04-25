@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-stream-http/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-stream-http/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-stream-http/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-stream-http/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-stream-http/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-stream-http/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-stream-http/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-stream-http/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-stream-http/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-stream-http/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-stream-http/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-stream-http/build/coverage.html/index.html)
 
@@ -35,33 +35,12 @@
 ```json
 
 {
-    "name": "stream-http",
-    "version": "2.7.0",
-    "description": "Streaming http in the browser",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/jhiesey/stream-http.git"
+    "author": {
+        "name": "John Hiesey"
     },
-    "scripts": {
-        "test": "npm run test-node && ([ -n \"${TRAVIS_PULL_REQUEST}\" -a \"${TRAVIS_PULL_REQUEST}\" != 'false' ] || npm run test-browser)",
-        "test-node": "tape test/node/*.js",
-        "test-browser": "zuul --no-coverage -- test/browser/*.js",
-        "test-browser-local": "zuul --local 8080 --no-coverage -- test/browser/*.js"
-    },
-    "author": "John Hiesey",
-    "license": "MIT",
     "bugs": {
         "url": "https://github.com/jhiesey/stream-http/issues"
     },
-    "homepage": "https://github.com/jhiesey/stream-http#readme",
-    "keywords": [
-        "http",
-        "stream",
-        "streaming",
-        "xhr",
-        "http-browserify"
-    ],
     "dependencies": {
         "builtin-status-codes": "^3.0.0",
         "inherits": "^2.0.1",
@@ -69,6 +48,7 @@
         "to-arraybuffer": "^1.0.0",
         "xtend": "^4.0.0"
     },
+    "description": "Streaming http in the browser",
     "devDependencies": {
         "basic-auth": "^1.0.3",
         "brfs": "^1.4.0",
@@ -78,7 +58,45 @@
         "ua-parser-js": "^0.7.7",
         "webworkify": "^1.0.2",
         "zuul": "^3.10.3"
-    }
+    },
+    "directories": {},
+    "dist": {
+        "shasum": "cec1f4e3b494bc4a81b451808970f8b20b4ed5f6",
+        "tarball": "https://registry.npmjs.org/stream-http/-/stream-http-2.7.0.tgz"
+    },
+    "gitHead": "1dc9ea32f593bec599ed4aa1456ad450a70f6ba2",
+    "homepage": "https://github.com/jhiesey/stream-http#readme",
+    "keywords": [
+        "http",
+        "stream",
+        "streaming",
+        "xhr",
+        "http-browserify"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "maintainers": [
+        {
+            "name": "feross"
+        },
+        {
+            "name": "jhiesey"
+        }
+    ],
+    "name": "stream-http",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jhiesey/stream-http.git"
+    },
+    "scripts": {
+        "test": "npm run test-node && ([ -n \"${TRAVIS_PULL_REQUEST}\" -a \"${TRAVIS_PULL_REQUEST}\" != 'false' ] || npm run test-browser)",
+        "test-browser": "zuul --no-coverage -- test/browser/*.js",
+        "test-browser-local": "zuul --local 8080 --no-coverage -- test/browser/*.js",
+        "test-node": "tape test/node/*.js"
+    },
+    "version": "2.7.0",
+    "bin": {}
 }
 ```
 
