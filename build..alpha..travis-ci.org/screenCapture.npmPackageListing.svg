@@ -1,36 +1,36 @@
 <svg height="526" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="526" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 08:23:55 +0000    86994 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 08:23:55 +0000     1086 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 08:23:55 +0000     6509 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 08:23:55 +0000     4898 bytes  ie8-polyfill.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 08:23:55 +0000     1718 bytes  index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 08:23:55 +0000     2333 bytes  lib/capability.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 08:23:55 +0000     7739 bytes  lib/request.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 08:23:55 +0000     4694 bytes  lib/response.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 08:23:55 +0000     1255 bytes  package.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 08:23:55 +0000     1112 bytes  test/browser/abort.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 08:23:55 +0000      440 bytes  test/browser/auth.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 08:23:55 +0000     2064 bytes  test/browser/binary-streaming.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 08:23:55 +0000      864 bytes  test/browser/binary.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 08:23:55 +0000      656 bytes  test/browser/body-empty.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 08:23:55 +0000      510 bytes  test/browser/cookie.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 08:23:55 +0000      726 bytes  test/browser/disable-fetch.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 08:23:55 +0000      280 bytes  test/browser/error.js.disabled</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 08:23:55 +0000     3886 bytes  test/browser/headers.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 08:23:55 +0000      395 bytes  test/browser/lib/webworker-worker.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 08:23:55 +0000       50 bytes  test/browser/package.json</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 08:23:55 +0000     1205 bytes  test/browser/post-binary.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 08:23:55 +0000      918 bytes  test/browser/post-text.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 08:23:55 +0000     1211 bytes  test/browser/text-streaming.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 08:23:55 +0000     1418 bytes  test/browser/text.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 08:23:55 +0000      779 bytes  test/browser/timeout.js.disabled</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 08:23:55 +0000     1242 bytes  test/browser/webworker.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 08:23:55 +0000     3552 bytes  test/node/http-browserify.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 08:23:55 +0000     3330 bytes  test/server/index.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 08:23:55 +0000      468 bytes  test/server/static/basic.txt</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 08:23:55 +0000    31422 bytes  test/server/static/browserify.png</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 08:23:55 +0000      234 bytes  test/server/static/test-polyfill.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 12:26:48 +0000    88690 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 12:26:48 +0000     1086 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 12:26:48 +0000     6509 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 12:26:48 +0000     4898 bytes  ie8-polyfill.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 12:26:48 +0000     1718 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 12:26:48 +0000     2333 bytes  lib/capability.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 12:26:48 +0000     7739 bytes  lib/request.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 12:26:48 +0000     4694 bytes  lib/response.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 12:26:48 +0000     2951 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 12:26:48 +0000     1112 bytes  test/browser/abort.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 12:26:48 +0000      440 bytes  test/browser/auth.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 12:26:48 +0000     2064 bytes  test/browser/binary-streaming.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 12:26:48 +0000      864 bytes  test/browser/binary.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 12:26:48 +0000      656 bytes  test/browser/body-empty.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 12:26:48 +0000      510 bytes  test/browser/cookie.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 12:26:48 +0000      726 bytes  test/browser/disable-fetch.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 12:26:48 +0000      280 bytes  test/browser/error.js.disabled</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 12:26:48 +0000     3886 bytes  test/browser/headers.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 12:26:48 +0000      395 bytes  test/browser/lib/webworker-worker.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 12:26:48 +0000       50 bytes  test/browser/package.json</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 12:26:48 +0000     1205 bytes  test/browser/post-binary.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 12:26:48 +0000      918 bytes  test/browser/post-text.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 12:26:48 +0000     1211 bytes  test/browser/text-streaming.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 12:26:48 +0000     1418 bytes  test/browser/text.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 12:26:48 +0000      779 bytes  test/browser/timeout.js.disabled</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 12:26:48 +0000     1242 bytes  test/browser/webworker.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 12:26:48 +0000     3552 bytes  test/node/http-browserify.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 12:26:48 +0000     3330 bytes  test/server/index.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 12:26:48 +0000      468 bytes  test/server/static/basic.txt</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 12:26:48 +0000    31422 bytes  test/server/static/browserify.png</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 12:26:48 +0000      234 bytes  test/server/static/test-polyfill.js</tspan>
 </text>
 </svg>
